@@ -5,6 +5,7 @@ public class ArrayStackTest {
         intStack.push(1);
         intStack.push(2);
         intStack.push(3);
+
         intStack.push(4);
         intStack.push(5);
 
